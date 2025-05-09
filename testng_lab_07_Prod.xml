@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification Project-Copy">
+    <test verbose="2" preserve-order="true" name="ATB11xJavaProgram">
+        <classes>
+        <class name="com.thetestingacademy.ex_03_TestNG.APITesting_Lab_07_TestNG_MultipleTCS">
+        </class>
+        </classes>
+
+    </test>
+</suite>
+
+
